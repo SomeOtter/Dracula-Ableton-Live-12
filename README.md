@@ -16,7 +16,7 @@ To accomodate Ableton's extensive range of UI elements, this theme uses an exten
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/abletonlive12/graphs/contributors).
 
-[![SomeOtter](https://avatars.githubusercontent.com/u/180732713?v=4)](https://github.com/SomeOtter) |
+[![SomeOtter](https://avatars.githubusercontent.com/u/180732713?v=4&s=70)](https://github.com/SomeOtter) |
 --- |
 [SomeOtter](https://github.com/SomeOtter) |
 
