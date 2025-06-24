@@ -6,6 +6,8 @@
 
 ## Install
 
+Click [here](https://github.com/SomeOtter/Dracula-Ableton-Live-12/archive/master.zip) to download the theme as a ZIP file.
+
 [Click here](./INSTALL.md) for installation instructions.
 
 ## Color Palette
