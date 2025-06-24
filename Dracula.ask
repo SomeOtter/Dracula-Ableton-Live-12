@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ableton MajorVersion="5" MinorVersion="12.0_12120" SchemaChangeCount="4" Creator="Ableton Live 12.1d1" Revision="">
+	<Theme>
+		<ControlForeground Value="#f8f8f2" /> 
+		<!-- All active foreground text -->
+		<TextDisabled Value="#7b90cf" />
+		<!-- Disabled foreground text -->
+		<ControlDisabled Value="#7b90cf" />
+		<!-- Disabled control text -->
+		<MeterBackground Value="#1b1c24" />
+		<!-- Background of all level and midi meters -->
+		<SurfaceHighlight Value="#626682" />
+		<!-- The darker grid space colour of a highlighted track or in clip view -->
+		<SurfaceArea Value="#282a36" />
+		<!-- Top controls background colour -->
+		<Desktop Value="#282a36" />
+		<!-- Main background -->
+		<ViewCheckControlEnabledOn Value="#ff79c6" />
+		<!-- Unsure -->
+		<ScrollbarInnerHandle Value="#7b90cf" />
+		<!-- Unsure -->
+		<ScrollbarInnerTrack Value="#282a36" />
+		<!-- Scroll bar track background -->
+		<ScrollbarLCDHandle Value="#999997" />
+		<!-- Scroll bar handle -->
+		<ScrollbarLCDTrack Value="#282a36" />
+		<!-- Unsure, same as light grid spaces in arrangement -->
+		<ScrollbarMixerShowOnScrollHandle Value="#00000066" />
+		<DetailViewBackground Value="#626682" />
+		<!-- Detail/clip view dark grid spaces and lines & left velocity level area -->
+		<PreferencesTab Value="#44475a" />
+		<!-- Unsure, same as light grid spaces in arrangement -->
+		<SelectionFrame Value="#7b90cf" />
+		<!-- Same as drum rack strip light grid and disabled top bar text -->
+		<ControlBackground Value="#44475a" />
+		<!-- The main/outer background colour -->
+		<ControlFillHandle Value="#7b90cf" />
+		<!-- Unsure medium grey colour -->
+		<ChosenDefault Value="#ff79c6" />
+		<!-- Unsure -->
+		<ChosenRecord Value="#ff5555" />
+		<!-- Colour of record button on and track arm on -->
+		<ChosenPreListen Value="#6273a4" />
+		<!-- Prelisten fader and heaphone buttons -->
+		<ImplicitArm Value="#ff000064" />
+		<RangeDefault Value="#8be9fd" />
+		<!-- Unsure -->
+		<RangeDisabled Value="#7b90cf" />
+		<!-- Same as drum rack strip light grid and disabled top bar text -->
+		<RangeDisabledOff Value="#908e8e" />
+		<!-- Either is or is same as loop length bar -->
+		<LearnMidi Value="#4034ef" />
+		<!-- Learn Midi button on not hovered -->
+		<LearnKey Value="#ff6400" />
+		<!-- Learn Key button on not hovered -->
+		<LearnMacro Value="#00da48" />
+		<!-- Learn Macro button on -->
+		<RangeEditField Value="#bd93f9" />
+		<!-- Same as Global groove rangeField -->
+		<RangeEditField2 Value="#ffb86c" />
+		<!-- Dark red rangeField unsure where this even is -->
+		<BipolReset Value="#8be9fd" />
+		<!-- Almost same as small cyan loop size off indicator triangle -->
+		<ChosenAlternative Value="#8be9fd" />
+		<!-- Almost same as small cyan loop size off indicator triangle -->
+		<ChosenAlert Value="#ff5555" />
+		<!-- Alert colour such as warning bar -->
+		<ChosenPlay Value="#50fa7b" />
+		<!-- Play button on colour -->
+		<Clip1 Value="#8b7936" />
+		<Clip2 Value="#999565" />
+		<Clip3 Value="#b8ce93" />
+		<Clip4 Value="#afb95b" />
+		<Clip5 Value="#52ba46" />
+		<Clip6 Value="#81d24c" />
+		<Clip7 Value="#6baace" />
+		<Clip8 Value="#4881aa" />
+		<Clip9 Value="#954eb2" />
+		<Clip10 Value="#ff5f80" />
+		<Clip11 Value="#dc4848" />
+		<Clip12 Value="#d66b18" />
+		<Clip13 Value="#e0aa2a" />
+		<Clip14 Value="#ffec75" />
+		<Clip15 Value="#e7e6e6" />
+		<Clip16 Value="#a0a0a0" />
+		<ClipText Value="#000000" />
+		<ClipBorder Value="#44475a" />
+		<!-- Same as arrangement vertical grid lines -->
+		<SceneContrast Value="#44475a" />
+		<!-- Same as arrangement vertical grid lines -->
+		<SelectionBackground Value="#96d4e8" />
+		<!-- Background colour of selecting clip in arrangement -->
+		<StandbySelectionBackground Value="#6272a4" />
+		<!-- Highlight colour of browser or other selections that aren't in focus -->
+		<SelectionForeground Value="#080808" />
+		<!-- Text colour of selections, loop range outline -->
+		<StandbySelectionForeground Value="#080808" />
+		<!-- Same as above -->
+		<SelectionBackgroundContrast Value="#6273a4" />
+		<!-- Vertical lines in arrangement selection, time text in retro view -->
+		<SurfaceBackground Value="#44475a" />
+		<!-- Dark grid spaces in arrangement, dark vertical lines on selected track -->
+		<TakeLaneTrackHighlighted Value="#626682" />
+		<!-- Colour of take lane with focus, same as main window colour -->
+		<TakeLaneTrackNotHighlighted Value="#282A36" />
+		<!-- Colour of take lane without focus, same as window border/bg -->
+		<AutomationColor Value="#ff4d47" />
+		<!-- Colour of automation lines and points -->
+		<AutomationGrid Value="#1b1c24" />
+		<!-- Automation grid line, same as vertical lines -->
+		<LoopColor Value="#080808" />
+		<!-- Loop range outline -->
+		<OffGridLoopColor Value="#bbbbbb4f" />
+		<ArrangementRulerMarkings Value="#999997" />
+		<!-- Arrangement and clip view time markings -->
+		<DetailViewRulerMarkings Value="#999997" />
+		<!-- Same as above -->
+		<ShadowDark Value="#44475a54" />
+		<ShadowLight Value="#6272a4cc" />
+		<DisplayBackground Value="#1b1c24" />
+		<!-- Background of retro display, same as meter fill -->
+		<AbletonColor Value="#50fa7b" />
+		<!-- Unsure where this exists, bright green -->
+		<WaveformColor Value="#1b1c24ef" />
+		<DimmedWaveformColor Value="#999997df" />
+		<VelocityColor Value="#e95449" />
+		<!-- Unsure -->
+		<VelocitySelectedOrHovered Value="#5b8cff" />
+		<!-- Colour of velocity being hovered or selected -->
+		<NoteProbability Value="#908e8e" />
+		<!-- Note probability colour, same as loop range bar -->
+		<Alert Value="#ff5555" />
+		<!-- Same as other alert colour -->
+		<ControlOnForeground Value="#080808" />
+		<!-- Colour of focused text in browser & drum rack slots, same as loop outline -->
+		<ControlOffForeground Value="#f8f8f2" />
+		<!-- Colour of unfocused text, pretty much all white text -->
+		<ControlOnDisabledForeground Value="#21222c" />
+		<!-- Top bar off background, unselected tags, horizontal arrangement lines -->
+		<ControlOffDisabledForeground Value="#999997" />
+		<!-- Disabled browser text, serach bar placeholder, 1/1 bottom left arrange -->
+		<ControlOnAlternativeForeground Value="#080808" />
+		<!-- Colour of focused text in browser & drum rack slots, same as loop outline -->
+		<ControlTextBack Value="#44475a" />
+		<!-- Top bar off background, unselected tags, horizontal arrangement lines -->
+		<ControlContrastFrame Value="#1b1c24" />
+		<!-- Arrangement borders, global button borders -->
+		<ControlSelectionFrame Value="#999997" />
+		<!-- Same as arrangement time markings -->
+		<ControlContrastTransport Value="#6272A4" />
+		<!-- Top bar off background, unselected tags, horizontal arrangement lines -->
+		<ViewControlOn Value="#ff79c6" />
+		<!-- View change controls, usually orange -->
+		<ViewControlOff Value="#44475a" />
+		<!-- View change controls when off -->
+		<Progress Value="#ff79c6" />
+		<!-- Progress bar fill -->
+		<ProgressText Value="#908e8e" />
+		<!-- Progress dialog text colour -->
+		<TransportProgress Value="#ff79c6" />
+		<!-- Unsure -->
+		<ClipSlotButton Value="#282a36" />
+		<!-- Clip record/stop buttons -->
+		<BrowserBar Value="#44475a" />
+		<!-- Browser sorting bar -->
+		<BrowserBarOverlayHintTextColor Value="#7b90cf" />
+		<!-- Unsure, light grey -->
+		<BrowserDisabledItem Value="#7b90cf" />
+		<!-- Disabled text in browser -->
+		<BrowserSampleWaveform Value="#bcbbb9" />
+		<!-- Browser waveform preview -->
+		<AutomationDisabled Value="#6273a4" />
+		<!-- Disabled automation colour -->
+		<AutomationMouseOver Value="#ff9085" />
+		<!-- Hovered automation colour -->
+		<MidiNoteMaxVelocity Value="#e95449" />
+		<!-- Set red but depends on track colour -->
+		<RetroDisplayBackground Value="#1b1c24" />
+		<!-- Background of retro display -->
+		<RetroDisplayBackgroundLine Value="#6272a4" />
+		<!-- Background line in retro display -->
+		<RetroDisplayForeground Value="#ff79c6" />
+		<!-- Same as other orange colours -->
+		<RetroDisplayForeground2 Value="#8be9fd" />
+		<!-- Cyan coloured buttons -->
+		<RetroDisplayForegroundDisabled Value="#7b90cf" />
+		<!-- Colour of foreground items when disabled -->
+		<RetroDisplayGreen Value="#ff79c6" />
+		<!-- Says green but is actually orange -->
+		<RetroDisplayRed Value="#8be9fd" />
+		<!-- Says red but is actually cyan -->
+		<RetroDisplayHandle1 Value="#ff79c6" />
+		<!-- Same as other oranges -->
+		<RetroDisplayHandle2 Value="#bd93f9" />
+		<!-- Not sure where, pinky pastel red -->
+		<RetroDisplayScaleText Value="#bcbbb9" />
+		<!-- light grey -->
+		<RetroDisplayTitle Value="#f8f8f2" />
+		<!-- Title of retro display -->
+		<ThresholdLineColor Value="#8be9fd" />
+		<!-- Cyan -->
+		<GainReductionLineColor Value="#ff79c6" />
+		<!-- Orange -->
+		<InputCurveColor Value="#7b90cf" />
+		<!-- Light grey -->
+		<InputCurveOutlineColor Value="#00000000" />
+		<OutputCurveColor Value="#bcbbb94c" />
+		<OutputCurveOutlineColor Value="#f8f8f2" />
+		<!-- Off white -->
+		<SpectrumDefaultColor Value="#7b90cf" />
+		<!-- Light Grey -->
+		<SpectrumAlternativeColor Value="#6273a4" />
+		<!-- Blue -->
+		<SpectrumGridLines Value="#dfdfdf3f" />
+		<Operator1 Value="#f1fa8c" />
+		<Operator2 Value="#8be9fd" />
+		<Operator3 Value="#bd93f9" />
+		<Operator4 Value="#ffb86c" />
+		<DrumRackScroller1 Value="#626682" />
+		<!-- Dark section of scroller -->
+		<DrumRackScroller2 Value="#999997" />
+		<!-- Light section of scroller -->
+		<FilledDrumRackPad Value="#f8f8f2" />
+		<!-- Off white colour -->
+		<SurfaceAreaFocus Value="#282a36" />
+		<!-- Same as transport button bgs -->
+		<FreezeColor Value="#4391e6" />
+		<!-- Freeze track colour -->
+		<GridLabel Value="#e1e1e17f" />
+		<GridLineBase Value="#09090954" />
+		<ArrangerGridTiles Value="#0a0a0a19" />
+		<DetailGridTiles Value="#0a0a0a19" />
+		<GridGuideline Value="#f8f8f2" />
+		<!-- Grid time guides -->
+		<OffGridGuideline Value="#dfdfdf4f" />
+		<TreeColumnHeadBackground Value="#6272a4" />
+		<!-- Same as dark space in grid with track focus -->
+		<TreeColumnHeadForeground Value="#f8f8f2" />
+		<!-- Same as grid time guides -->
+		<TreeColumnHeadSelected Value="#6272a4" />
+		<!-- Same as dark space in grid with track focus -->
+		<TreeColumnHeadFocus Value="#6272a4" />
+		<!-- Same as above -->
+		<TreeColumnHeadControl Value="#ff79c6" />
+		<!-- Same as drum rack scroller light areas -->
+		<TreeRowCategoryForeground Value="#ff79c6" />
+		<!-- Same as above -->
+		<TreeRowCategoryBackground Value="#00000000" />
+		<BrowserTagBackground Value="#282a36" />
+		<!-- Background of tag buttons -->
+		<SearchIndication Value="#f1fa8c" />
+		<!-- Results bar colour -->
+		<SearchIndicationStandby Value="#d3db7b" />
+		<!-- Slightly darker than above -->
+		<KeyZoneBackground Value="#acf6b4" />
+		<!-- Chain key background, sage colour -->
+		<KeyZoneCrossfadeRamp Value="#50fa7b" />
+		<!-- Chain key main, green -->
+		<VelocityZoneBackground Value="#f5a7a3" />
+		<!-- Chain velocity background, pastel red colour -->
+		<VelocityZoneCrossfadeRamp Value="#ff5555" />
+		<!-- Chain velocity main, red -->
+		<SelectorZoneBackground Value="#bed6f4" />
+		<!-- Chain selector background, light blue -->
+		<SelectorZoneCrossfadeRamp Value="#2d66d2" />
+		<!-- Chain selector main, blue -->
+		<ViewCheckControlEnabledOff Value="#7b90cf" />
+		<!-- Grey -->
+		<ViewCheckControlDisabledOn Value="#bcbbb9" />
+		<!-- Light Grey -->
+		<ViewCheckControlDisabledOff Value="#7b90cf" />
+		<!-- Medium Grey -->
+		<DefaultBlendFactor Value="0.7570000291" />
+		<IconBlendFactor Value="0.7300000191" />
+		<ClipBlendFactor Value="0.7580000162" />
+		<NoteBorderStandbyBlendFactor Value="0.5360000134" />
+		<RetroDisplayBlendFactor Value="1" />
+		<CheckControlNotCheckedBlendFactor Value="0.5" />
+		<MixSurfaceAreaBlendFactor Value="0.375" />
+		<TextFrameSegmentBlendFactor Value="0.3950000107" />
+		<NoteDisabledSelectedBlendFactor Value="0.5" />
+		<BackgroundClip Value="#7b90cf" />
+		<BackgroundClipFrame Value="#44475a" />
+		<WarperTimeBarRulerBackground Value="#44475a" />
+		<WarperTimeBarMarkerBackground Value="#44475a" />
+		<MinVelocityNoteBlendFactor Value="0.2639999986" />
+		<StripedBackgroundShadeFactor Value="0.8999999762" />
+		<NonEditableAutomationAlpha Value="127" />
+		<DisabledContextMenuIconAlpha Value="85" />
+		<ClipBorderAlpha Value="120" />
+		<ScrollBarAlpha Value="255" />
+		<ScrollBarOnHoverAlpha Value="255" />
+		<ScrollBarBackgroundAlpha Value="255" />
+		<InaudibleTakeLightness Value="0.322000000000000008" />
+		<InaudibleTakeSaturation Value="0.775000000000000022" />
+		<InaudibleTakeNameLightness Value="0.800000000000000044" />
+		<InaudibleTakeNameSaturation Value="0.853999999999999981" />
+		<AutomationLaneClipBodyLightness Value="0.260000000000000009" />
+		<AutomationLaneClipBodySaturation Value="0.80600000000000005" />
+		<AutomationLaneHeaderLightness Value="0.251000000000000001" />
+		<AutomationLaneHeaderSaturation Value="0.53400000000000003" />
+		<TakeLaneHeaderLightness Value="0.479999999999999982" />
+		<TakeLaneHeaderSaturation Value="0.900000000000000022" />
+		<TakeLaneHeaderNameLightness Value="0.849999999999999978" />
+		<TakeLaneHeaderNameSaturation Value="0.900000000000000022" />
+		<AutomationLaneHeaderNameLightness Value="0.708999999999999964" />
+		<AutomationLaneHeaderNameSaturation Value="0.900000000000000022" />
+		<ClipContrastColorAdjustment Value="24" />
+		<SessionSlotOklabLCompensationFactor Value="35" />
+		<BipolarPotiTriangle Value="#1b1c24" />
+		<!-- Pot triangle dark grey -->
+		<Poti Value="#1b1c24" />
+		<!-- Pot track dark grey -->
+		<DeactivatedPoti Value="#282a36" />
+		<!-- Deactivated pot -->
+		<PotiNeedle Value="#1b1c24" />
+		<!-- Pot needle -->
+		<DeactivatedPotiNeedle Value="#282a36" />
+		<!-- Deactivated pot needle -->
+		<PianoBlackKey Value="#21222c" />
+		<!-- Black piano keys in midi roll -->
+		<PianoWhiteKey Value="#f8f8f2" />
+		<!-- White piano keys in midi roll -->
+		<PianoKeySeparator Value="#282a36" />
+		<!-- Piano key seperator -->
+		<TransportOffBackground Value="#44475a" />
+		<!-- Transport button off background -->
+		<TransportOffDisabledForeground Value="#999997" />
+		<!-- Transport button off disabled foreground -->
+		<TransportOffForeground Value="#f8f8f2" />
+		<!-- Transport off not disabled forground -->
+		<TransportSelectionBackground Value="#7b90cf" />
+		<!-- Unsure -->
+		<Modulation Value="#009aac" />
+		<!-- Modulation line, darker cyan -->
+		<ModulationDisabled Value="#79bdc7a9" />
+		<ModulationMouseOver Value="#8cffff" />
+		<AutomationTransformToolFrame Value="#44475abf" />
+		<AutomationTransformToolFrameActive Value="#1b1c24" />
+		<AutomationTransformToolHandle Value="#44475abf" />
+		<AutomationTransformToolHandleActive Value="#0e0e0e" />
+		<MutedAuditionClip Value="#908e8e" />
+		<LinkedTrackHover Value="#b3d4e5" />
+		<ExpressionLaneHeaderHighlight Value="#6272a4" />
+		<DeactivatedClipHeader Value="#999997df" />
+		<DeactivatedClipHeaderForeground Value="#44475a" />
+		<!-- Deactivated clip text -->
+		<ScaleAwareness Value="#bd93f9" />
+		<!-- Scale button -->
+		<StandardVuMeter>
+			<OnlyMinimumToMaximum Value="false" />
+			<Maximum Value="#ff0a0a" />
+			<AboveZeroDecibel Value="#ff0a0a" />
+			<ZeroDecibel Value="#ff0a0a" />
+			<BelowZeroDecibel1 Value="#ffd100" />
+			<BelowZeroDecibel2 Value="#00f758" />
+			<Minimum Value="#00f758" />
+		</StandardVuMeter>
+		<OverloadVuMeter>
+			<OnlyMinimumToMaximum Value="true" />
+			<Maximum Value="#ff0a0a" />
+			<AboveZeroDecibel Value="#ffffff" />
+			<ZeroDecibel Value="#ffffff" />
+			<BelowZeroDecibel1 Value="#ffffff" />
+			<BelowZeroDecibel2 Value="#ffffff" />
+			<Minimum Value="#af0a0a" />
+		</OverloadVuMeter>
+		<DisabledVuMeter>
+			<OnlyMinimumToMaximum Value="false" />
+			<Maximum Value="#ff0a0a" />
+			<AboveZeroDecibel Value="#ffd00a" />
+			<ZeroDecibel Value="#828282" />
+			<BelowZeroDecibel1 Value="#7e7e7e" />
+			<BelowZeroDecibel2 Value="#7b7b7b" />
+			<Minimum Value="#6e6e6e" />
+		</DisabledVuMeter>
+		<HeadphonesVuMeter>
+			<OnlyMinimumToMaximum Value="false" />
+			<Maximum Value="#a5a5f1" />
+			<AboveZeroDecibel Value="#90aaec" />
+			<ZeroDecibel Value="#90aaec" />
+			<BelowZeroDecibel1 Value="#85b8f1" />
+			<BelowZeroDecibel2 Value="#7cc6f5" />
+			<Minimum Value="#0affff" />
+		</HeadphonesVuMeter>
+		<SendsOnlyVuMeter>
+			<OnlyMinimumToMaximum Value="false" />
+			<Maximum Value="#c8c800" />
+			<AboveZeroDecibel Value="#c8c800" />
+			<ZeroDecibel Value="#6464ff" />
+			<BelowZeroDecibel1 Value="#6464ff" />
+			<BelowZeroDecibel2 Value="#6464ff" />
+			<Minimum Value="#6464ff" />
+		</SendsOnlyVuMeter>
+		<BipolarGainReductionVuMeter>
+			<OnlyMinimumToMaximum Value="false" />
+			<Maximum Value="#5577c6" />
+			<AboveZeroDecibel Value="#5577c6" />
+			<ZeroDecibel Value="#ffa519" />
+			<BelowZeroDecibel1 Value="#ffa519" />
+			<BelowZeroDecibel2 Value="#ffa519" />
+			<Minimum Value="#ffa519" />
+		</BipolarGainReductionVuMeter>
+		<OrangeVuMeter>
+			<OnlyMinimumToMaximum Value="true" />
+			<Maximum Value="#ffa519" />
+			<AboveZeroDecibel Value="#ffa519" />
+			<ZeroDecibel Value="#ffa519" />
+			<BelowZeroDecibel1 Value="#ffa519" />
+			<BelowZeroDecibel2 Value="#ffa519" />
+			<Minimum Value="#ffa519" />
+		</OrangeVuMeter>
+		<MainViewFocusIndicator Value="#1b1c24" />
+		<!-- Main view border in focus -->
+		<MidiEditorBlackKeyBackground Value="#0a0a0a19" />
+		<MidiEditorBackgroundWhiteKeySeparator Value="#14141419" />
+		<RangeEditField3 Value="#7a4f29" />
+		<ScrollbarInnerHandleHover Value="#7b90cf" />
+		<ScrollbarInnerTrackHover Value="#282a36" />
+		<ScrollbarLCDHandleHover Value="#7b90cf" />
+		<ScrollbarLCDTrackHover Value="#282a36" />
+		<ScrollbarMixerShowOnScrollHandleHover Value="#00000066" />
+		<RetroDisplayControlSelectionFrame Value="#7b90cf" />
+		<ThresholdLineColorHover Value="#5b8cff" />
+		<SecondarySelectionForeground Value="#0000007f" />
+	</Theme>
+</Ableton>
