@@ -23,7 +23,7 @@ Download using the [GitHub .zip download](https://github.com/SomeOtter/Dracula-A
 
 1. Place the `Dracula.ask` file into `C:\ProgramData\Ableton\Live 12 Suite\Resources\Themes`.
 
-##### Ableton
+##### Inside Ableton
 
 1. Open the Preferences window (Ctrl/Cmd + ,).
 2. Click on the **Theme & Colours** tab.
